@@ -2,8 +2,8 @@
 
 A simple 2D game built with C++ and the Raylib library. This project marks the beginning of my journey into game development, focusing on understanding the fundamentals of game loops, player input, rendering, and collision detection.
 
-![gameplay_screenshot](https://i.imgur.com/uT28YDb.png)
-_(Feel free to replace this with a screenshot of your actual game!)_
+![gameplay_screenshot 1](image.png)
+![gameplay_screenshot 2](image-1.png)
 
 ## 📜 Description
 
